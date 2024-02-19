@@ -1,0 +1,20 @@
+{
+  "name": "Đặng Khang",
+  "ID": "100049321576939",
+  "mainROD": null,
+  "GPS": {
+    "locate": "Sector Zero",
+    "area": "Arctic"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    }
+  ],
+  "item": [],
+  "timeRegister": "00:21:38, 28/11/2022"
+}

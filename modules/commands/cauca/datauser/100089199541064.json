@@ -1,0 +1,20 @@
+{
+    "name": "Supe Bodoi",
+    "ID": "100089199541064",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Cá Thách Đấu",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "19:28:06, 24/12/2022"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Nguyễn Thị Diệp",
+  "ID": "100089601042197",
+  "pet": [
+    {
+      "name": "Surskit",
+      "type": "Bug",
+      "HP": "60.0",
+      "Attack": "45.0",
+      "Defense": "48.0",
+      "Speed": "97.5",
+      "skill": [
+        "Swift Swim",
+        "Rain Dish"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Devnguyenit/pokemon-data.json/master/images/pokedex/hires/283.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

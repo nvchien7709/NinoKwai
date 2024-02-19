@@ -1,0 +1,20 @@
+{
+    "name": "Như Quỳnh",
+    "ID": "100006396582835",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Cá Thách Đấu",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "19:12:12, 18/12/2022"
+}

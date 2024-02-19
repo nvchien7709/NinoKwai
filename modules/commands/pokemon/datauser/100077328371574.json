@@ -1,0 +1,44 @@
+{
+  "name": "Chú Bé Kẹo Ngọt",
+  "ID": "100077328371574",
+  "pet": [
+    {
+      "name": "Barboach",
+      "type": "Water",
+      "HP": 19,
+      "Attack": 18.24,
+      "Defense": 16.34,
+      "Speed": 22.8,
+      "skill": [
+        "Oblivious",
+        "Anticipation",
+        "Hydration"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Devnguyenit/pokemon-data.json/master/images/pokedex/hires/339.png"
+    }
+  ],
+  "foods": [
+    {
+      "name": "𝐌𝐨𝐮𝐭𝐡 𝐖𝐚𝐭𝐞𝐫𝐢𝐧𝐠 𝐃𝐢𝐩 𝐚 𝐥𝐚 𝐂𝐮𝐛𝐞 🍑",
+      "type": "Electric",
+      "HP": "12",
+      "Attack": "12",
+      "Defense": "12",
+      "Speed": "12"
+    },
+    {
+      "name": "𝐇𝐨𝐭 𝐏𝐨𝐭 𝐚 𝐥𝐚 𝐂𝐮𝐛𝐞 🍖",
+      "type": "Fire",
+      "HP": "20",
+      "Attack": "20",
+      "Defense": "20",
+      "Speed": "20"
+    }
+  ],
+  "solo": {
+    "win": 0,
+    "lose": 1,
+    "draw": 1
+  }
+}

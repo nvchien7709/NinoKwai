@@ -1,0 +1,29 @@
+{
+  "name": "HẢi Nguyên",
+  "ID": "100043703987513",
+  "mainROD": "Steel Harpoon",
+  "GPS": {
+    "locate": "Sector Zero",
+    "area": "Arctic"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    }
+  ],
+  "item": [
+    {
+      "name": "Steel Harpoon",
+      "price": 1500,
+      "durability": 40,
+      "countdown": 180,
+      "countdownData": 1669569836563,
+      "image": "https://i.imgur.com/mptiizn.png"
+    }
+  ],
+  "timeRegister": "00:16:22, 28/11/2022"
+}

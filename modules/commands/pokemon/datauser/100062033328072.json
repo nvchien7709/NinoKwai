@@ -1,0 +1,71 @@
+{
+  "name": "Nhật Nhân",
+  "ID": "100062033328072",
+  "pet": [
+    {
+      "name": "Sealeo",
+      "type": "Ice",
+      "HP": "36.0",
+      "Attack": "24.0",
+      "Defense": "28.0",
+      "Speed": "18.0",
+      "skill": [
+        "Thick Fat",
+        "Ice Body",
+        "Oblivious"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Devnguyenit/pokemon-data.json/master/images/pokedex/hires/364.png"
+    },
+    {
+      "name": "Tauros",
+      "type": "Normal",
+      "HP": "112.5",
+      "Attack": "150.0",
+      "Defense": "142.5",
+      "Speed": "165.0",
+      "skill": [
+        "Intimidate",
+        "Anger Point",
+        "Sheer Force"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Devnguyenit/pokemon-data.json/master/images/pokedex/hires/128.png"
+    },
+    {
+      "name": "Woobat",
+      "type": "Psychic",
+      "HP": "97.5",
+      "Attack": "67.5",
+      "Defense": "64.5",
+      "Speed": "108.0",
+      "skill": [
+        "Unaware",
+        "Klutz",
+        "Simple"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Devnguyenit/pokemon-data.json/master/images/pokedex/hires/527.png"
+    },
+    {
+      "name": "Quilladin",
+      "type": "Grass",
+      "HP": "61.0",
+      "Attack": "78.0",
+      "Defense": "95.0",
+      "Speed": "57.0",
+      "skill": [
+        "Overgrow",
+        "Bulletproof"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Devnguyenit/pokemon-data.json/master/images/pokedex/hires/651.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

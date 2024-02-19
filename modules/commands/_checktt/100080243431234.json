@@ -1,0 +1,37 @@
+{
+    "total": [
+        {
+            "id": "100080243431234",
+            "count": 3
+        },
+        {
+            "id": "100085362792634",
+            "count": 1
+        }
+    ],
+    "week": [
+        {
+            "id": "100080243431234",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100085362792634",
+            "count": 0,
+            "name": "Người dùng facebook"
+        }
+    ],
+    "day": [
+        {
+            "id": "100080243431234",
+            "count": 0,
+            "name": "Nguyên Hoàng Trung"
+        },
+        {
+            "id": "100085362792634",
+            "count": 0,
+            "name": "Mitsuki Saiko"
+        }
+    ],
+    "time": 0
+}
